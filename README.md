@@ -17,9 +17,9 @@ This model was designed during the development of my undergraduate thesis and ha
 
 ## Model Architecture
 
-```
+![PNSC](https://github.com/user-attachments/assets/5b94f37e-ec38-4314-9929-597d9e269bd2)
 
-```
+
 
 ## Usage Steps
 
