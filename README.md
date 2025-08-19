@@ -37,8 +37,4 @@ By analyzing the decision patterns formed by the base models, the meta-learner p
 
 The model has shown to be effective in tasks such as opinionated text classification, low-resource learning, and imbalanced multi-class datasets.
 
-## License
 
-This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
-
-Commercial use of this model or its architectural components requires explicit permission from the author. Please contact for licensing inquiries.
